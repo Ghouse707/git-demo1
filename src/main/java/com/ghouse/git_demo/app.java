@@ -6,4 +6,13 @@ public class app {
 
         System.out.println("ghouse pasha");
     }
+
+    public String bro(){
+        return  "hello bro";
+    }
+
+    public int table(){
+        return 12;
+    }
+
 }
