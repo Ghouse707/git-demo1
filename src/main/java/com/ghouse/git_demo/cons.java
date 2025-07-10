@@ -6,4 +6,9 @@ public class cons {
         System.out.println("assalamu alaikum");
     }
 
+    public int addnum(int n,int m){
+        return n+m;
+
+    }
+
 }
